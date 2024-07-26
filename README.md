@@ -17,5 +17,5 @@ Instance which can be migrated is <Instance name>
 
 ## Curl url
 
-curl -X POST "https://us-central1-lloyds-hack-grp-25.cloudfunctions.net/cloud-captains-function" -H "Content-Type: application/json" --data '{"project_name":"gcp","zone":"us-east"}'
+curl -X POST "https://us-central1-lloyds-hack-grp-25.cloudfunctions.net/cloud-captains-function" -H "Content-Type: application/json" --data '{"project_name":"lloyds-hack-grp-25","zone":"asia-south1-a"}'
 
